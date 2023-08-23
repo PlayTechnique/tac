@@ -1,3 +1,3 @@
-module github.com/playtechnique/tac
+module github.com/PlayTechnique/tac
 
 go 1.20
